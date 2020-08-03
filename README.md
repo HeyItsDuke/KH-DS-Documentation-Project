@@ -1,4 +1,4 @@
-# Kingdom-Hearts-DS-Documentation
+# Kingdom Hearts DS Documentation Project
 Documentation of the structure and contents of Kingdom Hearts 358/2 Days and Kingdom Hearts Re:Coded for Nintendo DS. Any files are blank dummy files for demonstration purposes only. This repository contains no files from the games themselves.
 
 Goal:
